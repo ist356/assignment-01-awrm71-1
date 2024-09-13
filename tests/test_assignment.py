@@ -24,6 +24,9 @@ def test_gpa():
         assert output_text.find(expected_output) >=0
         i += 1
 
+test_gpa(3.4)
+
+
 def test_numbers():
     import json
     tests = [
