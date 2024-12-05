@@ -16,14 +16,14 @@ pytest to identify non-error bugs in your code.
 
 gpa = float(input("Enter GPA: "))
 
-if gpa >=0 and gpa < 4.0:
-    if gpa > 3.8:
+if gpa >=0 and gpa <= 4.0:
+    if gpa >= 3.8:
         result = "Summa Cum Laude"
     elif gpa >= 3.6:
         result = "Magna Cum Laude"
     elif gpa >= 3.4:
         result = "Cum Laude"
-    elif gpa < 1.8:
+    elif gpa <= 1.8:
         result = "Academic Probation"
     else:
         result = "Passing"
@@ -31,3 +31,15 @@ else:
     result = "Invalid GPA"
 
 print(f"for GPA {gpa:.3f} Result: {result}")
+
+
+
+if __name__ == "__main__":
+    main()
+
+
+"""
+implimenting the code itself was very easy for both the tests, the big thing that I learned was the way that tests opperate. While the code itself is easy I think the functionality of tests and debugging is very interesting and a new perspective into coding."""
+
+
+
