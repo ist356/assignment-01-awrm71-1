@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+implimenting the code itself was very easy for both the tests, the big thing that I learned was the way that tests opperate. While the code itself is easy I think the functionality of tests and debugging is very interesting and a new perspective into coding.
