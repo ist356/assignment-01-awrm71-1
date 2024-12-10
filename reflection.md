@@ -23,4 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-implimenting the code itself was very easy for both the tests, the big thing that I learned was the way that tests opperate. While the code itself is easy I think the functionality of tests and debugging is very interesting and a new perspective into coding.
+implimenting the code itself was very easy for both the tests, the big thing that I learned was the way that tests opperate. While the code itself is easy I think the functionality of tests and debugging is very interesting and a new perspective into coding. I will have to continue to experiment with tests and how I can implement them into my own projects going forward, but I can definitely say I did learn alot from this assignment.
